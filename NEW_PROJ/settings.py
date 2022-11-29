@@ -55,7 +55,7 @@ ROOT_URLCONF = 'NEW_PROJ.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['/Users/johnatanalonsotabordazapata/Documents/Personal/Cursos/Certificación Python/Course/NEW_PROJ/Templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
